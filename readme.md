@@ -125,6 +125,8 @@ const SuperAwesomeNEWCOMPOSER = (...functions) => async (event, context, callbac
     return createResponseObject(response);
 };
 ```
+### Example Wire Map
+![LambdaWComposerExample](https://github.com/user-attachments/assets/494709de-b2cc-4d3e-8e88-4629f6c8304a)
 
 ---
 
