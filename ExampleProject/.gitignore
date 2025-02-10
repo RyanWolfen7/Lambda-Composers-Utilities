@@ -1,0 +1,24 @@
+# project, build, and deployment
+node_modules
+build
+
+# ignore env
+.env
+
+# os or editor
+.idea
+.DS_Store
+.vscode/
+
+# ignore local files
+*.local
+
+# Exclude ini files because they have customer specific data
+ini/*.ini
+
+# dev stuff
+.nyc_output
+coverage
+
+# Allow lambda node_modules
+!lambdas/*/node_modules

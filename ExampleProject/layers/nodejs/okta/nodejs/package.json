@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@okta/jwt-verifier": "^3.0.1"
+    }
+}
