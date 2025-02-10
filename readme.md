@@ -49,6 +49,7 @@ The complexity mainly comes from how I handled **ACTIONS** and **end-time queue 
 ## Structure  
 
 Below is a wireframe of the basic composer.  
+![Basic composer example](https://github.com/user-attachments/assets/143097af-af48-43a8-aa71-a19d7faf0763)
 
 It builds a simple in-memory state object. Since JavaScript allows mutable data, you might want to **mitigate unintended changes** by introducing a state management module that follows an existing pattern.  
 
