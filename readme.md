@@ -1,7 +1,3 @@
-Here’s a more polished and structured version of your markdown:  
-
----
-
 # Lambda Composers and Utilities  
 
 This is a collection of simple composers and utilities for AWS Lambdas. It assumes:  
